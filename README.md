@@ -55,7 +55,7 @@ Health Informatics researcher and data scientist, focused on **clinical deterior
 [![KTH Health ML](https://img.shields.io/badge/🧪%20Sensory%20Overload%20ML-KTH%20DT2140-7B5EA7?style=for-the-badge)](https://github.com/mathangi18/KTH-DT2140-Health-ML-Sensory-Overload)
 [![KTH Ethics](https://img.shields.io/badge/⚖️%20Ethics%20in%20HI-KTH%20HI2010-2CB67D?style=for-the-badge)](https://github.com/mathangi18/KTH-HI2010-Ethics-In-Health-Informatics)
 [![Stats](https://img.shields.io/badge/📐%20Statistics-KTH%20CM2018-E57C04?style=for-the-badge)](https://github.com/mathangi18/KTH-CM2018-Advanced-Statistics-Project)
-[![DB Design](https://img.shields.io/badge/🗃%20DB%20Systems-KTH%20ID1020-FF4C60?style=for-the-badge)](https://github.com/mathangi18/KTH-ID1020-DB-System-Design-A1)
+[![DB Design](https://img.shields.io/badge/🗃%20DB%20Systems-KTH%20ID1020-FF4C60?style=for-the-badge)](https://github.com/mathangi18/KTH-ID1020-DB-A1-Modeling)
 
 </div>
 
